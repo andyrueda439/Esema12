@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio1\EG1\bin\Debug\EG1.exe.config
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio1\EG1\bin\Debug\EG1.exe
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio1\EG1\bin\Debug\EG1.pdb
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio1\EG1\obj\Debug\EG1.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio1\EG1\obj\Debug\EG1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio1\EG1\obj\Debug\EG1.exe
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio1\EG1\obj\Debug\EG1.pdb

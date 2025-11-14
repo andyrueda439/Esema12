@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio3\EG3\bin\Debug\EG3.exe.config
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio3\EG3\bin\Debug\EG3.exe
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio3\EG3\bin\Debug\EG3.pdb
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio3\EG3\obj\Debug\EG3.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio3\EG3\obj\Debug\EG3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio3\EG3\obj\Debug\EG3.exe
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio3\EG3\obj\Debug\EG3.pdb
+C:\Users\Dell\Documents\ProgEstr\S12\s2\Ejercicio3\EG3\obj\Debug\EG3.exe.config

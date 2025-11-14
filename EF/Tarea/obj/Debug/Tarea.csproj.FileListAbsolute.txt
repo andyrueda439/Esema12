@@ -1,0 +1,11 @@
+C:\Users\Dell\Documents\ProgEstr\S12\s3\EF\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\Dell\Documents\ProgEstr\S12\s3\EF\Tarea\bin\Debug\Tarea.exe
+C:\Users\Dell\Documents\ProgEstr\S12\s3\EF\Tarea\bin\Debug\Tarea.pdb
+C:\Users\Dell\Documents\ProgEstr\S12\s3\EF\Tarea\obj\Debug\Tarea.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\ProgEstr\S12\s3\EF\Tarea\obj\Debug\Tarea.Form1.resources
+C:\Users\Dell\Documents\ProgEstr\S12\s3\EF\Tarea\obj\Debug\Tarea.Properties.Resources.resources
+C:\Users\Dell\Documents\ProgEstr\S12\s3\EF\Tarea\obj\Debug\Tarea.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\ProgEstr\S12\s3\EF\Tarea\obj\Debug\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\ProgEstr\S12\s3\EF\Tarea\obj\Debug\Tarea.exe
+C:\Users\Dell\Documents\ProgEstr\S12\s3\EF\Tarea\obj\Debug\Tarea.pdb
+C:\Users\Dell\Documents\ProgEstr\S12\s3\EF\Tarea\obj\Debug\Tarea.exe.config
